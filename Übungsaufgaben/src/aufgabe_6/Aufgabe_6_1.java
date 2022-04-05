@@ -7,3 +7,4 @@ enum Colors
 
 //Kommentar
 
+//Kommentar 2
