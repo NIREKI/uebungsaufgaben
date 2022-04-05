@@ -5,3 +5,5 @@ enum Colors
 	ROT, GRÜN, BLAU;
 }
 
+//Kommentar
+
