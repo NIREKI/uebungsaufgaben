@@ -22,6 +22,8 @@ public class Datum extends JFrame{
 		label.setText("Testing");
 		add(label);
 		
+		//Hier: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+		
 		SimpleDateFormat format = new SimpleDateFormat("EEE MMM dd HH:mm:ss zz yyyy");
 		
 		
