@@ -22,7 +22,7 @@ public class Datum extends JFrame{
 		label.setText("Testing");
 		add(label);
 		
-		SimpleDateFormat format = new SimpleDateFormat("dd.MM.yyyy - HH:mm:ss");
+		SimpleDateFormat format = new SimpleDateFormat("EEE MMM dd HH:mm:ss zz yyyy");
 		
 		
 		Timer timer = new Timer();
