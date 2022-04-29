@@ -39,7 +39,7 @@ public class Datum extends JFrame{
 		};
 		//Jede Sekunde aktualisieren
 		timer.schedule(task, 0, 1000);
-		
+
 		setVisible(true);
 	}
 	
