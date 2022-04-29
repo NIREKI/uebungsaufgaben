@@ -17,6 +17,7 @@ public class morePanels extends JFrame {
 		super("Ü11A2");
 		setSize(360,430);
 		setLocation(100,100);
+		// Nicht mit Grid Layout gelöst weil kein Bock
 		setLayout(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
